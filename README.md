@@ -1,2 +1,2 @@
 # my-first-lepo
-This is my fjirst repo
+This is my awesome repo
